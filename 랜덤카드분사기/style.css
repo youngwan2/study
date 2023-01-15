@@ -32,7 +32,7 @@ body{
     width: 100vw;
 }
 
-.btn_container button{
+.btn_container .button{
     padding: 15px; background-color: rgb(170, 12, 12);
     color:rgb(255, 255, 255); border-radius: 5px; font-size: 16px;
 }
@@ -42,4 +42,10 @@ button:hover{
     background-color: tomato;
     color: black; font-size: 17px;
     cursor: pointer;
+}
+
+
+.btn_container  .active{
+    background-color: white;
+    color:black
 }
