@@ -10,5 +10,10 @@
 <img style ="width:400px" src ="https://user-images.githubusercontent.com/107159871/212520737-bf62f0da-a060-44ce-96b4-67be38cdc683.png ">
 
 
+2. [CSS] 프레임 바이 프레임 이미지 렌더링
+
+- 동일한 크기의 특정 부분만 다른 이미지가 돌아가면서 마치 애니메이션 되는 것 처럼 보임.
+<img sylte = "width:400px" src = "https://user-images.githubusercontent.com/107159871/212841385-d188051d-7d26-4cd5-aade-acdb520ed3bb.png" >
+
 
 
