@@ -1,0 +1,35 @@
+
+body{
+    background-color: black;
+}
+
+
+@keyframes earth_ani {
+    to {
+        background-position: -1168px;
+    }
+    
+}
+
+.earth {
+    width: 144.98px;
+    height: 150px;
+    background: url('/earth/자산\ 10@2x.png') no-repeat 0 0 / cover;
+    animation:earth_ani 0.9s infinite steps(8);
+    box-shadow: 60px -10px 50px 5px black inset;
+}
+
+.star{
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.link{
+    position: absolute;
+    bottom: 2rem;
+    left: 2rem;
+    
+}
