@@ -1,6 +1,4 @@
-# toy
-
-ㅁ배운 기술을 적용해서 만든 장난감 저장소
+# my toy
 
 <h3>1.랜덤카드분사기( 자바스크립트 라이브러리 GASP 적용) </h3>
 (소스코드) https://github.com/youngwan2/study/commit/714e34693e5ac1325e4f28623659f3b1dd5cf203
@@ -17,4 +15,5 @@
 <img  sylte = "width:400px" src = "https://user-images.githubusercontent.com/107159871/212841385-d188051d-7d26-4cd5-aade-acdb520ed3bb.png">
 
 
+<h3> [CSS] 카드 뒤집기 </h3>
 
